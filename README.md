@@ -1,6 +1,6 @@
 ## Save
 
-`~/craft/` 👉 GitHub
+`~/craft/` 👉 GitHub.
 
 Documents (legal, medical, ...) 👉 `iCloud`.
 
@@ -10,14 +10,14 @@ Use `~/Desktop` and `~/Downloads`.
 
 ## Edit
 
-Text 👉 `vim` (👉 `.md`)
+Text 👉 `vim` (👉 `.md`).
 
-Image 👉 `Procreate`, `Keynote`, and others
+Image 👉 `Procreate`, `Keynote`, and others.
 
-Video and Audio 👉 `Final Cut Pro`
+Video and Audio 👉 `Final Cut Pro`.
 
 ## Name
 
-Name things consistently for reading (or coding https://github.com/KwatMDPhD/Coding.how)
+Name things consistently for reading (or coding https://github.com/KwatMDPhD/Coding.how).
 
 `2023.04.13 Drilled Single-Leg Takedown.mp4`
